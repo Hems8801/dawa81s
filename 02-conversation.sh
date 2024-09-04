@@ -1,7 +1,12 @@
 #!/bin/bash
-echo "Hem: Suneel,bdjbdgjdgm,Hem"
-echo "Suneel: Suneel,hfjbmeksckns,Hem"
-echo "Hem: Hem,bdjbdgjdegfhfbgm"
-echo "Suneel: Hem,hfjbmekscknsdbddb"
-echo "Hem: Suneel,bdjbdgfvgbffjdgmHem,"
-echo "Suneel: Suneel,hfjbmekscknsfjdgkdngkdgnk.,Hem"
+
+P1=Arif
+P2=suresh
+
+
+echo "$P1: $P2,bdjbdgjdgm,$P1"
+echo "$P2: $P2,hfjbmeksckns,$P1"
+echo "$P1: $P1,bdjbdgjdegfhfbgm"
+echo "$P2: $P1,hfjbmekscknsdbddb"
+echo "$P1: $P2,bdjbdgfvgbffjdgm,$P1,"
+echo "$P2: $P2,hfjbmekscknsfjdgkdngkdgnk.,$P1"
